@@ -35,6 +35,3 @@ features_for_anomaly_detection = ['Retweets', 'Likes']
 model = IsolationForest()
 model.fit(cleaned_data[features_for_anomaly_detection])
 cleaned_data['is_anomaly'] = model.predict(cleaned_data[features_for_anomaly_detection])
-
-# Step 6: Documentation and Reporting
-# Ensure to document and comment your code appropriately
