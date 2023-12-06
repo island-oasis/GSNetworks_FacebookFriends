@@ -6,7 +6,7 @@ Our project will explore collecting data sets from the popular social network, T
 
 Dataset Insight
 
-Free dataset chosen: https://www.kaggle.com/datasets/goyaladi/twitter-dataset/data
+Free dataset chosen: [https://www.kaggle.com/datasets/goyaladi/twitter-dataset/data](https://www.kaggle.com/datasets/hwassner/TwitterFriends/data)
 dataset will be used for identifying full Twitter user profile data, including who they follow
 
 Data Mining & Cleaning Procedures
