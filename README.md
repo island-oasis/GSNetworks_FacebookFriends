@@ -2,12 +2,13 @@
 
 Project Introduction
 
-Our project will explore collecting data sets from the popular social network, Twitter (X), showing various accounts and the users they choose to follow. This data set is similar to the Star Wars character interactions example shown in class. We will identify communities from the accounts and their connections with each other.
+Our project will explore collecting data sets from the popular social network, Facebook, showing various communities found in a user's friends list. This data set is similar to the Star Wars character interactions example shown in class. We will identify communities from the accounts and their connections with each other.
 
 Dataset Insight
 
-Free dataset chosen: [https://www.kaggle.com/datasets/goyaladi/twitter-dataset/data](https://www.kaggle.com/datasets/hwassner/TwitterFriends/data)
-dataset will be used for identifying full Twitter user profile data, including who they follow
+Free dataset chosen: https://github.com/benmaier/BFMaierFBnetwork
+
+dataset will be used for identifying one user's friends and their friends of friends
 
 Data Mining & Cleaning Procedures
 
