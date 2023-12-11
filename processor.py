@@ -1,4 +1,5 @@
 ## Find the K-Cores clusters
+## decided to not use this code
 import networkx as nx
 import matplotlib.pyplot as plt 
 G = nx.read_graphml('bfmaier_anonymized_fb_network.graphml')
